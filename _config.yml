@@ -13,7 +13,7 @@ title                    : "محمد فاضل امینی / Mohammad Fazel Amini"
 title_separator          : "-"
 name                     : &name "Mohammad Fazel Amini"
 description              : &description "Personal Website"
-url                      : https://mfaxyz.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mfaxyz.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MfaXyz/mfaxyz.github.io"
 
