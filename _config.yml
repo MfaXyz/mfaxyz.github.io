@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "fa-IR"
 site_theme               : "default"
-title                    : "محمد فاضل امینی / Mohammad Fazel Amini"
+title                    : "Mohammad Fazel Amini / محمدفاضل امینی"
 title_separator          : "-"
 name                     : &name "Mohammad Fazel Amini"
 description              : &description "Personal Website"
