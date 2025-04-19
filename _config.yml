@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Developing immersive solutions using C#, Unity, and C++."
   location         : "Earth"
-  employer         : "FADIN Technologies"
+  employer         : #
   uri              : # URL
   email            : "MfaXyzOfficial@gmail.com" 
 
