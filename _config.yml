@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "fa-IR"
 site_theme               : "default"
 title                    : "Mohammad Fazel Amini"
 title_separator          : "-"
